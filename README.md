@@ -28,7 +28,7 @@
 
 ### Languages
 
-<p>
+<p>C C++ JAVA PYTHON JS
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
 </p>
 
