@@ -48,12 +48,13 @@ I'm passionate about solving real-world problems through technology. I enjoy bui
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NisargDetroja1&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NisargDetroja1&theme=tokyonight" height="170"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NisargDetroja1&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NisargDetroja1&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisargDetroja1&layout=compact&theme=tokyonight"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisargDetroja1&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
