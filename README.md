@@ -62,23 +62,25 @@ I'm passionate about solving real-world problems through technology. I enjoy bui
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NisargDetroja1&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NisargDetroja1&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisargDetroja1&layout=compact&theme=tokyonight"/>
-</p>
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/NisargDetroja1
-* LinkedIn: https://linkedin.com/in/nisarg-detroja
-* Email: [nisargdetroja1609@gmail.com](mailto:nisargdetroja1609@gmail.com)
+## 🌐 Connect with Me
 
+<p align="center">
+  <a href="mailto:nisargdetroja1609@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/nisarg-detroja">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/NisargDetroja1">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+</p>
 ---
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
