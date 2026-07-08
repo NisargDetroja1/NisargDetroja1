@@ -72,9 +72,9 @@ I'm passionate about solving real-world problems through technology. I enjoy bui
   <a href="https://www.linkedin.com/in/nisarg-detroja-257920373">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-  <a href="https://github.com/NisargDetroja1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  
+  <a>
+  <img src="https://streak-stats.demolab.com?user=NisargDetroja1&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
