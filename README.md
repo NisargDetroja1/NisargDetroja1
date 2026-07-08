@@ -48,16 +48,14 @@ I'm passionate about solving real-world problems through technology. I enjoy bui
 ## 📊 GitHub Stats
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NisargDetroja1&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NisargDetroja1&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NisargDetroja1&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=NisargDetroja1&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisargDetroja1&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NisargDetroja1&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
-
----
 
 ## 📌 Featured Projects
 
